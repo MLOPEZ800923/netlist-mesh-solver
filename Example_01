@@ -12,7 +12,7 @@ Perform a complete mesh analysis on the following netlist-defined circuit. The a
 - Determine if supermesh is required (with brief justification)
 
 ### 3. Mesh Equations
-- Apply KVL to each mesh
+- Apply KVL to each mesh in clockwise direction
 - Present equations in matrix form: [R][I] = [V]
 - Include intermediate calculations for coupled resistances
 
