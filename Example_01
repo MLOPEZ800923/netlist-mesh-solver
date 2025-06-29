@@ -28,10 +28,10 @@ Perform a complete mesh analysis on the following netlist-defined circuit. The a
 
 ## Netlist Input
 
-V1 1 0 DC 10      ; Fuente de 10V entre nodo 1 y tierra (0)
-R1 1 2 1k        	; R1 = 1kΩ entre nodos 1 y 2
-R2 2 3 2.2k       ; R2 = 2.2kΩ entre nodos 2 y 3
-R3 3 4 3.3k      	; R3 = 3.3kΩ entre nodos 3 y 4
-R4 4 0 4.7k      	; R4 = 4.7kΩ entre nodo 4 y tierra
-R5 3 0 5k        	; R5 = 5kΩ entre nodo 3 y tierra
+V1 1 0 DC 10     ; Fuente de 10V entre nodo 1 y tierra (0)
+R1 1 2 1k        ; R1 = 1kΩ entre nodos 1 y 2
+R2 2 3 2.2k      ; R2 = 2.2kΩ entre nodos 2 y 3
+R3 3 4 3.3k      ; R3 = 3.3kΩ entre nodos 3 y 4
+R4 4 0 4.7k      ; R4 = 4.7kΩ entre nodo 4 y tierra
+R5 3 0 5k        ; R5 = 5kΩ entre nodo 3 y tierra
 .end
