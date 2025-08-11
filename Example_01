@@ -29,7 +29,7 @@ Perform a complete mesh analysis on the following netlist-defined circuit. The a
   - Current law at nodes
   - Voltage law around meshes
 
-## Netlist Input
+## 6. Netlist Input
 
 V1 1 0 DC 10      ; 10V source between node 1 and ground (0)
 R1 1 2 1k         ; R1 = 1kΩ between nodes 1 and 2
